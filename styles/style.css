@@ -56,14 +56,13 @@
 
 .address {
   padding-right: 57px;
-
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 24px;
-letter-spacing: 0.01em;
-color: #000000;
-line-height: 24px;
+  color: #000000;
+  font-weight: 400;
+  font-size: 18px;
+  font-style: normal;
+  line-height: 24px;
+  line-height: 24px;
+  letter-spacing: 0.01em;
 }
 
 .cover {
@@ -307,24 +306,24 @@ line-height: 24px;
 
 .about__text-Paragraph-1 {
   margin-right: 5px;
+  color: #000000;
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.01em;
-  color: #000000;
 }
 
 .about__text-Paragraph-2 {
   margin-top: 24px;
+  color: #000000;
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
-  color: #000000;
 }
 
 .letter-spacing-paragraph-1-1 {
-  font-size: 20px;
   font-weight: 400;
+  font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
   text-align: left;
@@ -341,18 +340,18 @@ line-height: 24px;
 }
 
 .footer__menu-list-item {
-  list-style: none;
+  color: #000000;
   font-weight: 400;
   font-size: 18px;
   line-height: 21px;
-  color: #000000;
+  list-style: none;
 }
 
 .footer__menu-link_active {
   text-decoration: none;
 }
 
-.footer__links-list-item_border-bottom{
+.footer__links-list-item_border-bottom {
   border-bottom: 1px solid;
   text-decoration: none;
 }
@@ -364,7 +363,7 @@ line-height: 24px;
 }
 
 .footer__social-list-item {
-  list-style: none;
   width: 48px;
   height: 48px;
+  list-style: none;
 }
